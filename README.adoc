@@ -1,1 +1,5 @@
+Pour compiler le projet, il faut utiliser "mvn install"
+
+Ainsi, le .jar est crée avec la javadoc du projet qui se trouve dans le dossier target.
+
 
